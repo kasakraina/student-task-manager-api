@@ -43,4 +43,4 @@ The API runs at `http://localhost:8080`.
 }
 ```
 
-This is a practice project created while learning Git, Java and Spring Boot.
+This is a practice project from me created while learning Git, Java and Spring Boot.
